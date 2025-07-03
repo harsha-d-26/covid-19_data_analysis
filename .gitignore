@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+
+# Spark artifacts
+spark-warehouse/
+.metastore_db/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# JDBC driver or binaries
+*.jar
+
+# Power BI files (binary - optional to include)
+*.pbix
+
+# Logs or temp files
+*.log
+*.tmp

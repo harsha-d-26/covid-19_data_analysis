@@ -19,9 +19,6 @@ Thumbs.db
 # JDBC driver or binaries
 *.jar
 
-# Power BI files (binary - optional to include)
-*.pbix
-
 # Logs or temp files
 *.log
 *.tmp
